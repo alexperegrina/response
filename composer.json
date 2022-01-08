@@ -1,5 +1,7 @@
 {
     "name": "alexperegrina/response",
+    "description": "Response library",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
