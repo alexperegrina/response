@@ -3,7 +3,7 @@
     "description": "Response library",
     "license": "MIT",
     "type": "library",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "authors": [
         {
