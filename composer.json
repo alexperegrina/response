@@ -4,7 +4,6 @@
     "license": "MIT",
     "type": "library",
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "authors": [
         {
             "name": "Alex Peregrina",
