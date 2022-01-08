@@ -3,6 +3,8 @@
     "description": "Response library",
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Alex Peregrina",
